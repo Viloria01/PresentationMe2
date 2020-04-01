@@ -1,0 +1,217 @@
+
+
+/*Primer cuadro de color azul #2d4059*/
+body{
+  background-color: #ecfbfc;
+}
+
+.darkcolor{
+  background-color: #2d4059;
+  font-family: 'Gochi Hand', cursive;
+  color: #f07b3f;
+}
+
+.imageCode{
+  position: relative;
+  text-align: center;
+  display:block;
+  margin:auto;
+  margin-top: 0;
+  height: 100px;
+  width: 100px;
+}
+h1{
+  font-size: 5.625rem;
+  text-align: center;
+}
+h2{
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.presentationnombre {
+  margin-top: 0;
+  font-size: 80px;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+
+  color: #f07b3f;
+}
+
+.presentationletra {
+  font-size: 50px;
+  font-family: 'Sriracha', cursive;
+}
+
+.montain {
+  position: relative;
+  margin: auto;
+  display: block;
+  height: 350px;
+  width: 800px;
+  border-radius: 20px;
+}
+
+/*Segundo cuadro de color azul medio #3b6978*/
+.mediumcolor{
+  background-color: #3b6978;
+}
+
+.imageJulio{
+  position: relative;
+  display: block;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+
+.textoJulio1{
+  font-family: 'Chilanka', cursive;
+  color: #ffa41b;
+}
+
+.textoJulio2{
+  font-family: 'Chilanka', cursive;
+  color: #ffa41b;
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+  padding-bottom: 1rem;
+}
+
+
+/* Segundo cuadro de color azul claro #84a9ac*/
+
+.lightcolor{
+  background-color: #84a9ac;
+
+}
+
+
+
+
+.letra1{
+  position: relative;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+.uba{
+  position: relative;
+  left: 150px;
+  top: 280px;
+  height: 300px;
+  width: 300px;
+}
+
+.item2{
+  position: relative;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+.imagebuque {
+  left: 750px;
+  top: 250px;
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+
+.item3{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  
+
+}
+
+.programador{
+  left: 150px;
+  top: 100px;
+  position: relative;
+  height: 350px;
+  width: 350px;
+}
+
+
+
+.text1{
+  position: relative;
+  font-size: 1rem;
+  text-align: left;
+  left: 770px;
+}
+
+.texttitle1{
+  position: relative;
+  font-size: 2rem;
+  color: rgb(11, 79, 81);
+  left: 300px;
+
+}
+
+.text2{
+  position: relative;
+  font-size: 1rem;
+  text-align: left;
+  left: 150px;
+
+}
+
+.texttitle2{
+  position: relative;
+  font-size: 2rem;
+  color: rgb(11, 79, 81);
+  right: 300px;
+  
+
+}
+
+.text3{
+  position: relative;
+  font-size: 1rem;
+  text-align: left;
+  bottom: 160px;
+  left: 770px;
+}
+
+.texttitle3{
+  position: relative;
+  font-size: 2rem;
+  color: rgb(11, 79, 81);
+  left: 300px;
+  bottom: 160px;
+
+}
+
+.superlight{
+  background-color: #cae8d5;
+  position: relative;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.contacto{
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.link1{
+  position: relative;
+  font-family: 'Sriracha', cursive;
+  text-align: left;
+  font-size: 20px;
+}
+.link2{
+  position: relative;
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  font-size: 20px;
+}
+.link3{
+  position: relative;
+  font-family: 'Sriracha', cursive;
+  font-size: 20px;
+}
